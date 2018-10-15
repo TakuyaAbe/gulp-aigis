@@ -19,7 +19,7 @@
   "dependencies": {
     "gulp-util": "^3.0.6",
     "lodash": "^4.10.0",
-    "node-aigis": "git://github.com/TakuyaAbe/aigis",
+    "node-aigis": "git://github.com/TakuyaAbe/aigis#v1.4.2",
     "through2": "^2.0.0"
   },
   "devDependencies": {
